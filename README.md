@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate on any full stack web development project or testing project.
 
-⚡ Fun fact: I can design you a cool logo as well as UI/UX too.
+⚡ Fun fact: I can design you a cool logo as well as UI/UX for your website too. Here's my [Behance profile](https://www.behance.net/saroshfarhan)
 
 
 ### Hacktoberfest 2022
