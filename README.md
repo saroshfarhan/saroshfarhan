@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Welcome to my github. I am Sarosh Farhan, a Software Development Engineer in Test based in India.
 
 📫 How to reach me: saroshfarhan6495@gmail.com
 
@@ -7,20 +8,7 @@
 👯 I’m looking to collaborate on any full stack web development project or testing project.
 
 ⚡ Fun fact: I can design you a cool logo as well as UI/UX too.
-<!--
-**saroshfarhan/saroshfarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hacktoberfest 2022
+### Hacktoberfest 2022
 [![@saroshfarhan's Holopin board](https://holopin.me/saroshfarhan)](https://holopin.io/@saroshfarhan)
