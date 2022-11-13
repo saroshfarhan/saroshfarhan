@@ -3,7 +3,7 @@
 
 📫 How to reach me: saroshfarhan6495@gmail.com
 
-🌱 I’m currently learning Flask and full stack web development with MERN stack.
+🌱 I’m currently learning full stack web development with MERN stack and Tailwind CSS.
 
 👯 I’m looking to collaborate on any full stack web development project or testing project.
 
