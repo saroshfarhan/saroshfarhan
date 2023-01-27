@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Sarosh Farhan, a Software Development Engineer in Test based in India. I am curently looking for opportunities i to make a switch to Frontend Development
+### I am Sarosh Farhan, a Software Development Engineer in Test based in India. I am curently looking for opportunities to make a switch to Frontend Development
 
 📫 How to reach me: saroshfarhan6495@gmail.com
 
