@@ -26,5 +26,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### Hacktoberfest 2022
-[![@saroshfarhan's Holopin board](https://holopin.me/saroshfarhan)](https://holopin.io/@saroshfarhan)
+<!-- ### Hacktoberfest 2022
+[![@saroshfarhan's Holopin board](https://holopin.me/saroshfarhan)](https://holopin.io/@saroshfarhan) -->
