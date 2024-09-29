@@ -3,7 +3,7 @@
 
 📫 How to reach me: saroshfarhan6495@gmail.com
 
-🌱 I’m currently learning Modersn Regression Analysis with R, Applied Matrix Theory and Data programming with Python and R and Power BI.
+🌱 I’m currently learning Modersn Regression Analysis with R, Applied Matrix Theory, Data programming with Python, R and Power BI.
 
 👯 I’m looking to collaborate on Data Analytics, Data Enfineering or AI based projects .
 
