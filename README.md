@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Modersn Regression Analysis with R, Applied Matrix Theory, Data programming with Python, R and Power BI.
 
-👯 I’m looking to collaborate on Data Analytics, Data Enfineering or AI based projects .
+👯 I’m looking to collaborate on Data Analytics, Data Engineering or AI based projects .
 
 ⚡ Fun fact: I can design you a cool logo as well as UI/UX for your website too. Here's my [Behance profile](https://www.behance.net/saroshfarhan)
 
